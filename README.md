@@ -1,27 +1,14 @@
 # 👋 Hello, I'm Rafay!
 
-I'm a student passionate about coding and constantly learning new things.
+I'm a student who wants to learn coding.
 
 ---
 
 ## 🔧 Technologies & Tools
 
-Here are some of the technologies and tools I enjoy working with:
+Here are some of the technologies and tools I am working with:
 
-- **Languages:**  
-  - Python  
-  - C  
-  - C++  
 
-- **Web Technologies:**  
-  - HTML  
-  - CSS  
-  - JavaScript  
-
-- **Tools:**  
-  - Git & GitHub  
-  - Visual Studio Code  
-  - Linux  
 
 ---
 
@@ -39,7 +26,7 @@ I'm always eager to grow and expand my skills. Currently, I'm focusing on:
 
 I'm actively working on new projects and will update this section as I progress. Stay tuned!
 
-[![Rafay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rafay-459&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Rafay's GitHub Stats](https://github-readme-stats-five-lyart-11.vercel.app/api?username=Rafay-459&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
