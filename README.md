@@ -1,13 +1,25 @@
-# 👋 Hello, I'm Rafay!
+<div align="center">
+  
+  <h1>👋 Hello, Im Rex</h1>
+  
+  <em>I like to code sometimes</em>
+  
+ &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com" target="_blank"><img src="images/discord.svg"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://spotify.com" target="_blank"><img src="images/spotify.svg"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com" target="_blank"><img src="images/linkedin.svg"></a>
+</div>
 
-I'm a student who wants to learn coding.
 
----
 
-## 🔧 Technologies & Tools
+## Languages
 
-Here are some of the technologies and tools I am working with:
 
+![Stats](https://github-readme-stats-five-lyart-11.vercel.app/api?username=Rafay-459&hide=contribs,prs,stars.issues&show_icons=true&theme=radical)
+
+![](https://github-readme-stats-five-lyart-11.vercel.app/api/top-langs/?username=Rafay-459&theme=tokyonight&langs_count=4&layout=donut)
 
 
 ---
@@ -25,8 +37,6 @@ I'm always eager to grow and expand my skills. Currently, I'm focusing on:
 ## 📈 Projects
 
 I'm actively working on new projects and will update this section as I progress. Stay tuned!
-
-[![Rafay's GitHub Stats](https://github-readme-stats-five-lyart-11.vercel.app/api?username=Rafay-459&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
