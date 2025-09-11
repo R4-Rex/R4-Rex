@@ -17,9 +17,9 @@
 ## Languages
 
 
-![Stats](https://github-readme-stats-five-lyart-11.vercel.app/api?username=Rafay-459&hide=contribs,prs,stars.issues&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats-five-lyart-11.vercel.app/api?username=R4-Rex&hide=contribs,prs,stars.issues&show_icons=true&theme=radical)
 
-![](https://github-readme-stats-five-lyart-11.vercel.app/api/top-langs/?username=Rafay-459&theme=tokyonight&langs_count=4&layout=donut)
+![](https://github-readme-stats-five-lyart-11.vercel.app/api/top-langs/?username=R4-Rex&theme=tokyonight&langs_count=4&layout=donut)
 
 
 ---
