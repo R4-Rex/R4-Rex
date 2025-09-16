@@ -42,7 +42,7 @@ I'm actively working on new projects and will update this section as I progress.
 
 ## 📫 Connect With Me
 
-- **Email:** [rafeh.khan3245@gmail.com](mailto:itsrex.dev@gmail.com)  
+- **Email:** [itsrex.dev@gmail.com](mailto:itsrex.dev@gmail.com)  
 - **Discord:** [Hecker#7260](https://discord.com/channels/@me/1010770302642434159)  
 
 ---
