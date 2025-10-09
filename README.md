@@ -39,10 +39,3 @@ I'm always eager to grow and expand my skills. Currently, I'm focusing on:
 I'm actively working on new projects and will update this section as I progress. Stay tuned!
 
 ---
-
-## 📫 Connect With Me
-
-- **Email:** [itsrex.dev@gmail.com](mailto:itsrex.dev@gmail.com)  
-- **Discord:** [Hecker#7260](https://discord.com/channels/@me/1010770302642434159)  
-
----
