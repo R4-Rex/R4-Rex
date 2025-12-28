@@ -19,18 +19,8 @@
 
 ![Stats](https://github-readme-stats-five-lyart-11.vercel.app/api?username=R4-Rex&hide=contribs,prs,stars.issues&show_icons=true&theme=radical)
 
-![](https://github-readme-stats-five-lyart-11.vercel.app/api/top-langs/?username=R4-Rex&theme=tokyonight&langs_count=4&layout=donut)
+![Langs](https://github-readme-stats-five-lyart-11.vercel.app/api/top-langs/?username=R4-Rex&theme=tokyonight&langs_count=4&layout=donut)
 
-
----
-
-## 🌱 Currently Learning
-
-I'm always eager to grow and expand my skills. Currently, I'm focusing on:
-
-- Advanced algorithms and data structures  
-- Web development (idk, javascript for now) 
-- Software engineering best practices  
 
 ---
 
