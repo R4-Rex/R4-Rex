@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>👋 Hello, I'm Rex</h1>
+  <h1>Hello, I'm Rex</h1>
   
   <em>I like to code sometimes</em>
   
