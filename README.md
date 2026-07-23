@@ -13,8 +13,8 @@
 </div>
 
 
-
-## Languages
+<details>
+  <summary><h2>Stats</h2></summary>
 <table>
   <tr>
     <td>
@@ -26,3 +26,4 @@
     </td>
   </tr>
 </table>
+</details>
