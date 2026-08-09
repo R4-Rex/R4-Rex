@@ -19,10 +19,10 @@
   <tr>
     <td>
     
-  <img src="https://github-readme-stats-five-lyart-11.vercel.app/api/top-langs/?username=Rex-Prime&theme=tokyonight&langs_count=6&layout=pie">
+  <img src="./profile/stats.svg">
     </td>
     <td>
-  <img src="https://github-readme-stats-five-lyart-11.vercel.app/api?username=Rex-Prime&hide=prs&include_all_commits&line_height=41&show_icons=true&show=discussions_started,discussions_answered,prs_merged&theme=radical&rank_icon=github">
+  <img src="./profile/top-langs.svg">
     </td>
   </tr>
 </table>
